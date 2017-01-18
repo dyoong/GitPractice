@@ -23,3 +23,4 @@ git push origin master
 pushes the file from local computer to github repository  
 git log  
 shows the different versions of the file  
+Must make actual changes to add commit push? testing  
